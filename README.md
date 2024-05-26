@@ -1,2 +1,2 @@
 # full-stack-development
-internship on full stack
+internship on full stack. 
